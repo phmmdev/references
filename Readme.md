@@ -34,6 +34,7 @@
 - [Jefferson Noronha](https://twitter.com/badtux_)
 - [James Newton](https://twitter.com/JamesNK)
 - [Phil Calçado](https://twitter.com/pcalcado)
+- [Eduardo Mendes](https://twitter.com/dunossauro)
 
 ## Blogs
 - [Daniel Croco](https://42bits.medium.com/)
