@@ -25,6 +25,25 @@
 - [Ligeiro](https://www.youtube.com/c/ligeiro)
 - [Desenvolvedor.io](https://www.youtube.com/c/desenvolvedorio)
 
-## Linkedin
+## Twitter
+- [Mateus Prado](https://twitter.com/mateusprado)
+- [Michel Pereira](https://twitter.com/michelpereira)
+- [Erik Kückelheim](https://twitter.com/kueckelheim)
+- [Laur Spilca](https://twitter.com/laurspilca)
+- [Joshua Bloch](https://twitter.com/joshbloch)
+- [Jefferson Noronha](https://twitter.com/badtux_)
+- [James Newton](https://twitter.com/JamesNK)
+- [Phil Calçado](https://twitter.com/pcalcado)
 
 ## Blogs
+- [Daniel Croco](https://42bits.medium.com/)
+- [Elemar Jr.](https://eximia.co/elemarjr/)
+- [Kent Beck](https://medium.com/@kentbeck_7670)
+- [Phil Calçados](https://philcalcado.com/)
+- [Creditas Tech](https://medium.com/creditas-tech)
+- [Quinto Andar Tech](https://medium.com/quintoandar-tech-blog)
+- [Uber](https://eng.uber.com/)
+- [Ifood](https://medium.com/ifood-tech/tagged/tech)
+
+## Podcast
+- [Dev na Estrada](https://devnaestrada.com.br/)
